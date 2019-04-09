@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new2.xsl"?>
+<urlset>
+<url>
+      <loc>http://travelagency.byethost8.com</loc>
+	  <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1</priority>  	  
+</url>
+<url>
+      <loc>http:http://travelagency.byethost8.com/index.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1</priority>  	  
+</url>
+<url>
+      <loc>http:http://travelagency.byethost8.com/gallery.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.7</priority>  	  
+</url>
+<url>
+      <loc>http://travelagency.byethost8.com/topVisited.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.7</priority>  	  
+</url>
+<url>
+      <loc>http://travelagency.byethost8.com/AboutAgency.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.8</priority>  	  
+</url>
+<url>
+      <loc>http://travelagency.byethost8.com/author.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>never</changefreq>
+      <priority>0.0</priority>  	  
+</url>
+<url>
+      <loc>http://travelagency.byethost8.com/spain.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1</priority>  	  
+</url>
+<url>
+      <loc>http://travelagency.byethost8.com/italy.html</loc>
+      <lastmod>2016-4-12</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1</priority>  	  
+</url>
+</urlset>

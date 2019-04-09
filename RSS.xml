@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new1.xsl"?>
+ <rss version="2.0">
+  <channel>
+    <item>
+	  <title>Last minute</title>
+	  <description>All  prices for Spain -10%</description>
+	  <link>http://travelagency.byethost8.com/Spain.html</link>
+	</item>
+	<item>
+	  <title>Gratis</title>
+	  <description>If you make reservation in February you have gratis trip for one person</description>
+	  <link>http://travelagency.byethost8.com/topVisited.html</link>
+	</item>
+	<item>
+	  <title>New Year 2017</title>
+	  <description>Discount on all trips 30%</description>
+	  <link>http://travelagency.byethost8.com/topVisited.html</link>
+	</item>
+  </channel>
+ </rss>
+ 
+
